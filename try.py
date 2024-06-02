@@ -12,3 +12,4 @@ pos = nx.spring_layout(graph)  # 指定节点布局算法
 nx.draw_networkx(graph, pos, with_labels=True, node_color='lightblue', node_size=500, arrowstyle='->', arrowsize=15)
 plt.axis('off')  # 关闭坐标轴
 plt.show()
+#B2
